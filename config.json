@@ -1,7 +1,7 @@
 {
   "wifi": {
             "ssid": "Ekstocken",
-            "ssid_pass": "familjenagren"
+            "ssid_pass": "xxxxxxxxxx"
           },
   "mqtt": {
             "user_mqtt": "iotlnu",
