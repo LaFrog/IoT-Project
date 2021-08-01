@@ -1,0 +1,12 @@
+{
+  "wifi": {
+    "ssid": "Ekstocken",
+    "ssid_pass": "familjenagren"},
+    "mqtt": {
+    "user_mqtt": "iotlnu",
+    "pass_mqtt": "micropython"
+    },
+    "ubidots":{
+      "useUbidots": "TRUE"
+    }
+  }
